@@ -31,10 +31,14 @@ Step 18
 
 ## Questions about the Activity as you work. 
 ```
-
+How can I extend my program, and create a double hexagon pattern?
+How can I make use of classes, and incorporate them into my program?
 ```
 #### Description Of The App 
+The program I made creates a double-hexagonal pattern with the use of turtle, for loops, and arrays. After that, I used classes to help me modularize the code, and while it had the same output as the original program, my code was a lot cleaner, and systematic. I created data structures for the turtles and the shapes. From there, I iterated through those data structures, which helped generate my pattern. With classes, I could also create a string representation of turtle's shapes and colors, and include error checks.
 
-`
 # Include a video of the result of the code at speed 0 or Fast. Be sure to make it available for me to see.
-## For Regrades use the Feedback and @baeztheprog on your commit messages.
+Here is the link to the video : 
+[video](https://github.com/Aero-ComSci/117-traversing-turtles-frostghost555/blob/c022897541dbb096de1e5fdf931160c9146df361/1.1.7%20CSP%20video.mov)
+<br>
+For Regrades use the Feedback and @baeztheprog on your commit messages.
